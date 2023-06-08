@@ -7,9 +7,12 @@ value and  percentage you make by opening this case.
 It requires Chrome installed on you pc and the selenium python library.
 
 To install selenium :
-> pip install selenium
+
+  \> pip install selenium
+
 To install chrome : 
-https://www.google.com/chrome/
+
+  \> https://www.google.com/chrome/
 
 I made this script on the fly without caring,
 so it's unreadable, certainly not optimized, and i'm pretty sure
